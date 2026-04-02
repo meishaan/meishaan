@@ -1,4 +1,4 @@
-#About Me:
+About Me:<br>
 Hi, I'm Ishan Sharma!<br><br> I'm currently working on building my data analytics and data engineering skills while working on real-world projects.<br>I'm looking to collaborate on data-driven projects, dashboards, and automation solutions using SQL, Python (Pandas, NumPy), and visualization tools like Tableau and Power BI.<br>I'm looking for help with mastering advanced data engineering concepts and best practices for scalable data pipelines.<br>I'm currently learning data visualization, predictive modeling, and how to optimize data processes for better insights.<br>Ask me about data analytics, UI/UX design, and my experience in event management and marketing.<br>Fun fact: I started in UI/UX design and now blend analytical thinking with design to create seamless user experiences!<br>
 
 
